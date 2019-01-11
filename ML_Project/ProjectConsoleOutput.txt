@@ -1,0 +1,25 @@
+Reading data completeFeature Selection started
+Done with feature selection0
+C:\Users\Sucharita\PycharmProjects\ML\venv\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+1
+C:\Users\Sucharita\PycharmProjects\ML\venv\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+2
+C:\Users\Sucharita\PycharmProjects\ML\venv\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+3
+C:\Users\Sucharita\PycharmProjects\ML\venv\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+4
+C:\Users\Sucharita\PycharmProjects\ML\venv\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+
+Features:  10
+The features are:  array('i', [9004, 3001, 7003, 27013, 15007, 7000, 21010, 19009, 999, 1000])
+C:\Users\Sucharita\PycharmProjects\ML\venv\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+Accuracy:  65.4
+
+Predicted labels of the test data are saved in testLabels file
+Done everything
